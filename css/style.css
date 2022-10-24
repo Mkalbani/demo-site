@@ -1,0 +1,15 @@
+body {background-color: LightBlue;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%; /*putting the percentage means that it will give the same width on laptop/phone/etc */
+}
+img{height: 250px;}
+h1{
+  color: #EAF6F6;
+}
+h3{
+  color: #EAF6F6;
+}
